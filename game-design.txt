@@ -14,12 +14,11 @@ los jugadores conceptos clave de [MATERIA].
 El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
 incluirán [TIPO DE DESAFÍOS]
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
+Los estudiantes avanzarán mediante un sistema de misiones y desafios progresivos. 
+Cada nivel representa un concepto u operación matematica diferente, y los jugadores recibirán retroalimentación inmediata sobre su
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante
-[MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de
+Los jugadores aprenderán aritmetica basica mediante acertijos y problemas matematicos interactivos en cada mision. 
+las evaluaciones se realizarán mediante mini-juegos, lo que permitirá a los profesores y estudiantes medir el progreso de
 manera efectiva.
 
 El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
