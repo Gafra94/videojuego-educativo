@@ -1,27 +1,9 @@
-Math Galaxy es un videojuego educativo diseñado para enseñar matematicas
-a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
-La historia se desarrolla en la Galaxia Operandum, un mundo lleno de misterios, desafíos y
-personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
-juego está diseñado para combinar diversión y educación, permitiendo que los
-estudiantes adquieran conocimientos de manera natural mientras exploran,
-resuelven problemas y superan obstáculos.
+Math Galaxy es un videojuego educativo diseñado para enseñar matemáticas a estudiantes de primaria, a través de una experiencia inmersiva y emocionante. La historia se desarrolla en la Galaxia Operandum, un mundo lleno de misterios y desafíos fascinantes que guiarán los jugadores en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
 
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
-deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
-incluirán [TIPO DE DESAFÍOS]
+El protagonista de esta aventura es un joven astronauta, que los jugadores podrán adaptar a su gusto, eligiendo género, apariencia y traje espacial. Este intrépido explorador espacial es un cadete de la Academia Espacial Matemática que ha sido elegido para una misión única: resolver los misterios matemáticos que mantienen bloqueados los portales entre planetas de la Galaxia Operandum. Con su nave espacial, el astronauta deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de matemáticas.
 
-Los estudiantes avanzarán mediante un sistema de misiones y desafios progresivos. 
-Cada nivel representa un concepto u operación matematica diferente, y los jugadores recibirán retroalimentación inmediata sobre su
-desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
-Los jugadores aprenderán aritmetica basica mediante acertijos y problemas matematicos interactivos en cada mision. 
-las evaluaciones se realizarán mediante mini-juegos, lo que permitirá a los profesores y estudiantes medir el progreso de
-manera efectiva.
+El jugador podrá viajar entre diferentes planetas temáticos, cada uno enfocado en distintas operaciones matemáticas. Para avanzar deberá completar minijuegos y misiones matemáticas, y los desafíos incluirán puzzles numéricos, carreras espaciales con operaciones matemáticas, construcción de bases espaciales usando geometría, y recolección de recursos mediante la resolución de problemas. Se reforzará la comprensión numérica a través de misiones de exploración planetaria y las evaluaciones se realizarán mediante desafíos especiales al final de cada planeta, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
 
-El juego se desarrollará usando Unity 3D y tendrá soporte para
-PC, Tablets y dispositivos moviles. Además, se implementarán características como
-guardado en la nube, modo sin conexión para garantizar una experiencia de
-juego fluida y atractiva.
+Los estudiantes avanzan mediante un sistema de niveles adaptativo. Cada planeta representa una operación matemática específica (Suma, Resta, Multiplicación, División), y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+
+El juego se desarrollará usando Unity 3D y tendrá soporte para PC, tablets y dispositivos móviles. Además, se implementarán características como guardado en la nube, modo sin conexión, sistema de dificultad adaptativa y un panel de control para profesores para garantizar una experiencia de juego fluida y atractiva.
