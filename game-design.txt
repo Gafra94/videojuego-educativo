@@ -21,7 +21,7 @@ Los jugadores aprenderán aritmetica basica mediante acertijos y problemas matem
 las evaluaciones se realizarán mediante mini-juegos, lo que permitirá a los profesores y estudiantes medir el progreso de
 manera efectiva.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
-[PLATAFORMAS]. Además, se implementarán características como
-[CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
+El juego se desarrollará usando Unity 3D y tendrá soporte para
+PC, Tablets y dispositivos moviles. Además, se implementarán características como
+guardado en la nube, modo sin conexión para garantizar una experiencia de
 juego fluida y atractiva.
