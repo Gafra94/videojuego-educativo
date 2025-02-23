@@ -1,0 +1,11 @@
+ASTRONAUTA CADETE
+El protagonista es un niño astronauta cadete de la Academia Espacial Matemática, diseñado para ser totalmente personalizable por el jugador. Los estudiantes pueden modificar:
+
+Género del personaje
+Color y estilo de cabello
+Tono de piel
+Color del traje espacial
+Accesorios del traje (parches, insignias, decoraciones)
+Nombre del personaje
+
+El cadete porta un traje espacial moderno y colorido, equipado con una mochila propulsora que le permite moverse entre planetas. En su brazo lleva una computadora holográfica que permite interactuar con los alrededores. Su casco está equipado con un visor inteligente que resalta elementos importantes del entorno y muestra pistas matemáticas.
